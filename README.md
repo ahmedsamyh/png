@@ -5,8 +5,8 @@ Simple PNG Decoder.
 ## Quick Start
 ```console
 > premake5 vs2022
-> msbuild -p:configuration\Debug build\vsmomo.sln
-> bin\Debug\vsmomo.exe
+> msbuild -p:configuration\Debug build\png.sln
+> bin\Debug\png.exe
 ```
 Note: You can also open the VS solution file (.sln) directly and build with Visual Studio<s>(If you want to wait eternally for it to open)</s> and build it.
 
